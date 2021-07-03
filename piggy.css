@@ -1,0 +1,309 @@
+*{
+    box-sizing: border-box;
+    
+}
+body{
+    font-family: sans-serif; 
+    overflow-x: hidden;  
+    padding: 0;
+    margin:0;
+    outline: 0;
+    height: 100%;
+   
+    
+}
+
+.navbar{
+    height: 100vh;
+    width: 17%;
+    top: 0px;
+    left: 0px;
+    margin-left: 0px; 
+    padding: 30px;
+    position: fixed;
+    background: #062963;
+   font-family: monospace;
+   font-size: larger;
+ }
+ .navbar a{
+     text-decoration: none;
+     display: flex;
+    justify-content: center;
+    position: relative;
+    top: 0px;
+    margin-top: 70px;
+    color: #EFFAFE;
+    font-size: larger;
+    font-weight: bolder;
+    cursor: pointer;
+ }
+ .ba{
+     position: relative;
+    left: 10px; 
+    color: #EFFAFE;;
+    font-size: larger;
+ }
+ .fabb{
+  position: relative;
+  left: -50px;
+  font-size: larger;
+ }
+ .fad{
+     margin-left: 20px;
+     
+ }
+ .navbar a:hover{
+     background-color: #fff;
+     color: #94B6E7;
+     width: 99px;
+    right:-100px;
+     padding: 10px;
+     border-radius: 10px 5px 10px 2px;
+   
+        
+ }
+ .navbar img{
+width: 70%;
+margin-left: 30px;
+ }
+ #cclass{
+    margin-top: 150px;
+   
+ }
+ .my-name{
+    position: relative;
+    top: 50px;
+     left: 270px;
+ }
+ .my-name p{
+  color:  #718096;
+  margin-top: -20px;
+ }
+ .my-img{
+     
+    float: right;
+    position: relative;
+    top: -50px;
+    left: -50px;
+ }
+ .fill{
+   position: relative;
+   left: 300px;
+   top: 60px;
+ }
+ .bottnn{
+     float: right;
+     position: relative;
+     top: 30px;
+     left: -10px;
+ }
+ button{
+     background-color: #0E60D8;
+    border-radius: 10px 5px 10px 2px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+    padding: 10px;
+    width: 160px;
+    font-weight: bolder;
+    color: #DBE9FE;
+ }
+ .ssec{
+    width: 80%;
+    cursor: pointer;
+ }
+ 
+ .div-box{
+    position: relative;
+    left: 270px;
+    top: 80px;
+    display: flex;
+    z-index: -2;
+    color: #fff;
+    font-weight: bolder;
+  
+    
+ }
+ .dd{
+     position: relative;
+     top: 35px;
+     left: 20px;
+     color: #fff;
+     float: left;
+     font-size: 30px;
+ }
+ .d4d{
+    position: relative;
+    top: 35px;
+    left: 10px;
+    color: #fff;
+    float: left;
+    font-size: 30px;
+}
+.ddd{
+    position: relative;
+    top: 35px;
+    left: 10px;
+    color:  #E74F9C;
+    float: left;
+    font-size: 30px;
+}
+ .total-savings{
+     height: 150px;
+     width: 300px;
+     background-color: #1161D7;
+     color: #6CA6FB;
+     text-align: center;
+     
+ }
+
+    .card{
+       
+        /* background-color: #fff; */
+        /* color: #333;  */
+        border-radius: 10px 5px 10px 2px;
+        box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+        padding: 20px;
+        margin: 10px;
+    }
+    .pclass{
+        margin-top: 30px;
+    }
+    .p2class{
+        color: #CBCBCB;
+        margin-left: -20px;
+    }
+    .total-investment{
+        height: 150px;
+     width: 300px;
+        background-color: #804BE6;
+        color: #6CA6FB;
+        text-align: center;
+    }
+    .p2c{
+        color: #CAA0FC;
+    }
+    .flex-dollar{
+        height: 150px;
+     width: 300px;
+        background-color: #222223;
+        color: #6CA6FB;
+        text-align: center;
+    }
+    .flex-naira{
+        height: 150px;
+        width: 300px;
+        background-color: #fff;
+        color: #6CA6FB;
+        text-align: center;
+    }
+    .to-do{
+        position: relative;
+        left: 270px;
+        top: 100px;
+        font-family: serif;
+        font-weight: bold;
+       
+     
+    }
+    
+    .setup{
+       width: 700px;
+        background-color: #fff;
+    }
+.ups{
+    border: 1px solid #5288C1;
+}
+.vs{
+margin-top: 40px;
+}
+.recent-act{
+    font-weight: lighter;
+}
+.view{
+    margin-left: 250px;
+    color: #093E9E;
+}
+.ssmall{
+    float: right;
+    position: relative;
+    top: -700px;
+    left: 0px;
+}
+
+.build-s{
+    font-weight: lighter;
+    
+}
+.dwn-s{
+    margin-top: 30px;
+}
+.cc{
+    background-color: #030303;
+    color: #fff;
+    width: 200px;
+   
+}
+.mitdiv{
+    display: flex;
+    margin-left:-10px ;
+    width: auto;
+    padding: 0;
+}
+.ca{
+    border-radius: 10px 5px 10px 2px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+    padding: 10px;
+    
+   
+}
+.cac{
+    border-radius: 10px 5px 10px 2px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+    padding: 5px;
+    
+   
+}
+.dap{
+    font-size: 30px;
+    position: relative;
+    top: 10px;
+}
+
+    @media(max-width: 1280px)  {
+        
+        .navbar{
+            width: 23%;
+             border-right: 40px solid #fff;
+            position: fixed;
+            background: #062963;
+           font-family: monospace;
+          
+         }
+        .ssec{
+       width: 90%;
+        overflow-x:scroll; 
+        height: 250px;
+        left: 20px;
+        
+        }
+        .div-box{
+           left: 295px;
+           top: 50px;
+           
+         }
+        .setup{
+            width: 550px;
+           
+         }
+         
+        .cc{
+            width: auto;
+        }
+        .to-do{
+            top: -10px;
+          
+        }
+        .ssmall{
+            top: -800px;
+           width: fit-content;
+        }
+      }
